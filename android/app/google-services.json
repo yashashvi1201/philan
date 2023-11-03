@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712651172763",
+    "project_id": "philan-42871",
+    "storage_bucket": "philan-42871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712651172763:android:06f648afd34c65ffad4f3e",
+        "android_client_info": {
+          "package_name": "com.example.philan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9yVU_AfLowjqEHFvFAmNLoxNe6VtkHuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
